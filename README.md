@@ -39,4 +39,4 @@ We welcome contributions from the community! If you have any ideas, suggestions,
 
 ## Contact
 
-For any inquiries or questions, please contact us at youssefachchiraj@gmail.com.
+For any inquiries or questions, please contact me at youssefachchiraj@gmail.com.
