@@ -1,24 +1,17 @@
-# TaskPro
-
-TaskPro is a powerful and intuitive task management application currently under development. It aims to help users manage tasks, collaborate with teams, and streamline their workflow. TaskPro is being developed using Laravel (Lumen) for the backend API and React with TypeScript for the frontend.
-
+# Tickets
+coming soon
 ## Features
-
-- **Task Management**: Create, update, delete, and organize tasks with ease.
-- **Team Collaboration**: Manage teams and assign tasks to team members.
-- **Notifications**: Get notified about task updates and deadlines.
-- **Task Prioritization**: Set priority levels for tasks to focus on what matters most.
-- **User Authentication**: Secure login and registration for users.
+coming soon
 
 ## Tech Stack
 
-- **Backend**: [Laravel Lumen](https://lumen.laravel.com/)
+- **Backend**: [Laravel](https://laravel.com/)
 - **Frontend**: [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/)
 - **Bundler**: [Vite](https://vitejs.dev/)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/YoussefACHCHIRAJ/TaskPro.git`
-2. Navigate to the project directory: `cd taskPro`
+1. Clone the repository: `git clone https://github.com/YoussefACHCHIRAJ/Tickets.git`
+2. Navigate to the project directory: `cd Tickets`
 
 ### Backend Setup
 1. Navigate to the backend directory: cd backend
